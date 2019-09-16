@@ -1,0 +1,19 @@
+I"Q<hr />
+<p>layout: post
+title: “DragonYongs”
+subtitle: “안대용”
+type: “About”</p>
+
+<p>permalink: /about/
+post-header: true
+header-img: img/about.jpg
+—</p>
+<h1 id="제목-테스트">제목 테스트</h1>
+<blockquote>
+  <p>안녕하세요.</p>
+</blockquote>
+
+<ul>
+  <li>http://tech.inswave.com/2018/02/13/setup/</li>
+</ul>
+:ET
