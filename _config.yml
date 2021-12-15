@@ -3,8 +3,8 @@ permalink:      /:year-:month-:day/:title
 
 # Setup
 title:          Daeyong AHN
-baseurl:        "https://dragonyongs.github.io/project"
-url:            "https://dragonyongs.github.io/project"
+baseurl:        ""
+url:            "https://dragonyongs.github.io"
 timezone:       Asia/Seoul
 
 # Assets
