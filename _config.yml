@@ -3,7 +3,7 @@ permalink:      /:year-:month-:day/:title
 
 # Setup
 title:          Daeyong AHN
-baseurl:        "http://daeyong.github.io"
+baseurl:        ""
 url:            "http://daeyong.github.io"
 timezone:       Asia/Seoul
 
