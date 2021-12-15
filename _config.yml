@@ -4,7 +4,7 @@ permalink:      /:year-:month-:day/:title
 # Setup
 title:          Daeyong AHN
 baseurl:        ""
-url:            "http://daeyong.github.io"
+url:            "https://dragonyongs.github.io/"
 timezone:       Asia/Seoul
 
 # Assets
@@ -18,7 +18,7 @@ markdown:       kramdown
 # About
 author:
   name:         Daeyong AHN
-  url:          http://daeyong.github.io/
+  url:          https://dragonyongs.github.io/
   email:        dragonyongs@naver.com
   github:       dragonyongs
   twitter:      soondae4u
@@ -26,4 +26,4 @@ author:
 # Custom vars
 version:        3.4.1
 github:
-  repo:         https://github.com/dragonyongs/daeyong.github.io
+  repo:         https://github.com/dragonyongs/
