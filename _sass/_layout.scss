@@ -47,10 +47,12 @@ footer>.footer_wrap,
         float:right;
       }
       @media (max-width: $break-small) {
-        float:left;
-        display: inline-block;
-        margin-left: 50px;
-    }
+        ul{
+            float:left;
+            display: inline-block;
+            margin-left: 50px;
+        }
+      }
   }
 }
 
