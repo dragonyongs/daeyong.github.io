@@ -46,6 +46,11 @@ footer>.footer_wrap,
       ul{
         float:right;
       }
+      @media (max-width: $break-small) {
+        float:left;
+        display: inline-block;
+        margin-left: 50px;
+    }
   }
 }
 
