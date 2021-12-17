@@ -47,8 +47,11 @@ footer>.footer_wrap,
         float:right;
       }
       @media (max-width: $break-small) {
+        .logo{
+            width: 100%;
+        }
         ul{
-            float:left;
+            float: left;
             margin-left: 50px;
         }
       }
