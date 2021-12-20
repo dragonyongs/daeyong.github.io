@@ -1,6 +1,5 @@
 ---
 layout: default
-work: true
 main: true
 title: Projects
 description: 프로젝트
