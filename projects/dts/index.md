@@ -12,7 +12,7 @@ post-header: true
 header-img: "img/header.png"
 main-img: "img/2021_site_dts.png"
 role-title: "웹 디자이너"
-role-specific: "User Flows, Sketching, Wireframing, Visual Design, Interaction, Prototyping"
+role-specific: "icon illustration, Wireframing, Visual Design, Prototyping, UI design"
 team: "웹 디자이너 1명, PM 1명, 퍼블리셔 1명"
 platforms: "Web"
 date: "Sep 2021 - Oct 2021"
