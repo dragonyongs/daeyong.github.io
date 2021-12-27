@@ -6,6 +6,7 @@ subtitle: "오랫동안 홈에 존재해 온 문제들을 해결하기 위한 �
 type: "RIDIBOOKS"
 projects: true
 text: true
+ridi: true
 portfolio: true
 post-header: true
 header-img: "img/header.jpg"
