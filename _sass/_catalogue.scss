@@ -3,6 +3,12 @@
         border-bottom: 1px solid rgba(0,0,0,.07);
         padding: 36px 0;
         list-style: none;
+        width: 750px;
+        margin: 0 auto;
+        @media (max-width: $break-small) {
+            width: 88%;
+            margin: auto;
+        }
 
     &:last-child {
         margin-bottom: 0; //72px
