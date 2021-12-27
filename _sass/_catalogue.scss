@@ -5,7 +5,7 @@
         list-style: none;
         width: 1200px;
         margin: 0 auto;
-        @media (max-width: $break-small) {
+        @media (max-width: $break-medium) {
             width: 88%;
             margin: auto;
         }
