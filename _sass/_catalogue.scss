@@ -6,6 +6,10 @@
         width: 1200px;
         margin: 0 auto;
         @media (max-width: $break-medium) {
+            width: 90%;
+            margin: auto;
+        }
+        @media (max-width: $break-small) {
             width: 88%;
             margin: auto;
         }
