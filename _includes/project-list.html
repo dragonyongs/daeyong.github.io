@@ -1,5 +1,53 @@
 <li class="workplace transition">
-    {% for four in site.data.experience.four-place %}
+    {% for four in site.data.experience.seventh-place %}
+    <p class="workplace-name">
+        {{ four.name }}
+    </p>
+    <div class="work-info">
+        <p>
+            {{ four.role }}
+        </p>
+        <p class="work-sub-info">
+            {{ four.date }}
+        </p>
+    </div>
+    {% endfor %}
+</li>
+
+<li class="workplace transition">
+    {% for four in site.data.experience.sixth-place %}
+    <p class="workplace-name">
+        {{ four.name }}
+    </p>
+    <div class="work-info">
+        <p>
+            {{ four.role }}
+        </p>
+        <p class="work-sub-info">
+            {{ four.date }}
+        </p>
+    </div>
+    {% endfor %}
+</li>
+
+<li class="workplace transition">
+    {% for four in site.data.experience.fifth-place %}
+    <p class="workplace-name">
+        {{ four.name }}
+    </p>
+    <div class="work-info">
+        <p>
+            {{ four.role }}
+        </p>
+        <p class="work-sub-info">
+            {{ four.date }}
+        </p>
+    </div>
+    {% endfor %}
+</li>
+
+<li class="workplace transition">
+    {% for four in site.data.experience.fourth-place %}
     <p class="workplace-name">
         {{ four.name }}
     </p>
