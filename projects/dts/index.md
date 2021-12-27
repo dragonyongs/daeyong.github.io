@@ -28,7 +28,7 @@ order: 2
 
 <figcaption>DTS 프로젝트 커버</figcaption>
 
-## 메인페이지
+## 데스크탑 페이지
 
 ![메인 기본 디자인](img/page2-20211130-dts.png)
 
@@ -69,3 +69,25 @@ order: 2
 ![경영철학](img/page11-20211130-dts.png)
 
 <figcaption>직원들의 사진을 상단에 노출 시키고 생산 제품의 어두운 이미지를 탈피하고 부드러운 이미지를 포현하면서 환경을 생각하는 기업 이미지를 보여주려 다양한 색을 사용</figcaption>
+
+## 모바일 페이지
+
+![모바일 메인과 메뉴 화면](img/page12-20211130-dts.png)
+
+<figcaption>모바일 메인과 메뉴 화면</figcaption>
+
+![모바일 제품 상세 페이지](img/page13-20211130-dts.png)
+
+<figcaption>모바일 제품 상세 페이지</figcaption>
+
+![모바일 매연저감장치 안내](img/page14-20211130-dts.png)
+
+<figcaption>모바일 매연저감장치 안내</figcaption>
+
+![모바일 회사소개](img/page15-20211130-dts.png)
+
+<figcaption>모바일 회사소개</figcaption>
+
+![모바일 경영철학](img/page15-20211130-dts.png)
+
+<figcaption>모바일 경영철학</figcaption>
