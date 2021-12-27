@@ -88,6 +88,6 @@ order: 2
 
 <figcaption>모바일 회사소개</figcaption>
 
-![모바일 경영철학](img/page15-20211130-dts.png)
+![모바일 경영철학](img/page16-20211130-dts.png)
 
 <figcaption>모바일 경영철학</figcaption>
