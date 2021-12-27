@@ -24,47 +24,48 @@ order: 2
 
 # 사이트 디자인
 
-## 메인페이지
 ![프로젝트 커버](img/cover1-20211130-dts.png)
 
-<figcaption>디자인 설명</figcaption>
+<figcaption>DTS 프로젝트 커버</figcaption>
+
+## 메인페이지
 
 ![메인 기본 디자인](img/page2-20211130-dts.png)
 
-<figcaption>디자인 설명</figcaption>
+<figcaption>디티에스는 엔진 후처리장치 전문 기업으로 기업의 주력 제품의 색상은 검은 색으로 매연 저감장치를 주로 다루고 있기에 자연 친화적인 이미지를 부각하고 미래의 환경을 생각하는 건강한 기업의 이미지와 전문성을 표현하였습니다.</figcaption>
 
 ![슬라이드 배너 및 사이트맵 디자인](img/page3-20211130-dts.png)
 
-<figcaption>디자인 설명</figcaption>
+<figcaption>메인 페이지 슬라이드 배너 및 GNB 사이트맵 화면 디자인</figcaption>
 
 ![주요생산품](img/page4-20211130-dts.png)
 
-<figcaption>디자인 설명</figcaption>
+<figcaption>주요 생산품중 일부 (DPF)</figcaption>
 
 ![기술자료 매연저감장치 안내](img/page5-20211130-dts.png)
 
-<figcaption>디자인 설명</figcaption>
+<figcaption>매연저감장치 안내</figcaption>
 
 ![기술자료 유지보수 지침서1](img/page6-20211130-dts.png)
 
-<figcaption>디자인 설명</figcaption>
+<figcaption>유지보수 지침서 일부 (1/2)</figcaption>
 
 ![기술자료 유지보수 지침서2](img/page7-20211130-dts.png)
 
-<figcaption>디자인 설명</figcaption>
+<figcaption>유지보수 지침서 일부 (2/2)</figcaption>
 
 ![납품실적 주요 납품처](img/page8-20211130-dts.png)
 
-<figcaption>디자인 설명</figcaption>
+<figcaption>주요 납품처</figcaption>
 
 ![납품실적 주요 납품실적](img/page9-20211130-dts.png)
 
-<figcaption>디자인 설명</figcaption>
+<figcaption>주요 납품실적</figcaption>
 
 ![회사소개](img/page10-20211130-dts.png)
 
-<figcaption>디자인 설명</figcaption>
+<figcaption>디티에스의 제품이 육각형의 형태를 하고 있어 해당 형태를 아이콘으로 표현하였습니다. 동시에 단단하고 잘 짜여진 기업의 이미지를 표현</figcaption>
 
 ![경영철학](img/page11-20211130-dts.png)
 
-<figcaption>디자인 설명</figcaption>
+<figcaption>직원들의 사진을 상단에 노출 시키고 생산 제품의 어두운 이미지를 탈피하고 부드러운 이미지를 포현하면서 환경을 생각하는 기업 이미지를 보여주려 다양한 색을 사용</figcaption>
