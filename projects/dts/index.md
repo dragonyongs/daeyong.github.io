@@ -9,7 +9,7 @@ text: true
 starrich: true
 portfolio: true
 post-header: true
-header-img: "img/header.jpg"
+header-img: "img/header.png"
 main-img: "img/2021_site_dts.png"
 role-title: "웹 디자이너"
 role-specific: "User Flows, Sketching, Wireframing, Visual Design, Interaction, Prototyping"
