@@ -2,7 +2,7 @@
 layout: post
 author: "Daeyong Ahn"
 title:  "DTS 기업 홈페이지 구축"
-subtitle: "중소기업 바우처 사업의 첫번째로 구축하는 매연 저감장치 제조기업 DTS의 회사 사이트를 데스크탑/모바일 페이지 구축"
+subtitle: "제조중소기업 혁신바우처사업의 첫번째 프로젝트"
 type: "StarRich Advisor"
 projects: true
 text: true
@@ -14,7 +14,7 @@ main-img: "img/2021_site_dts.png"
 role-title: "웹 디자이너"
 role-specific: "icon illustration, Wireframing, Visual Design, Prototyping, UI design"
 team: "웹 디자이너 1명, PM 1명, 퍼블리셔 1명"
-platforms: "Web"
+platforms: "Web/Mobile"
 date: "Sep 2021 - Oct 2021"
 order: 2
 ---
