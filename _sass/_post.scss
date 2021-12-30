@@ -354,7 +354,10 @@ sup {
 // portfolio
 .portfolio-info {
     margin-bottom: 16px;
-    width: 100%;
+    width: 50%;
+    @media (max-width: $break-small) {
+        width: 100%;
+    }
     border: 1px solid #D8E0E7;
     border-radius: 6px;
     padding: 0 24px 20px 24px;
