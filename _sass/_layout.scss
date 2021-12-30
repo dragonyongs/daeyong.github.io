@@ -28,6 +28,12 @@ footer>.footer_wrap,
     }
 }
 
+main {
+    &-post{
+        max-width : 1200px;
+    }
+}
+
 .nav {
     overflow: auto;
     padding: 24px 0;
