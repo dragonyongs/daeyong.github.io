@@ -5,7 +5,7 @@
         width: 88%;
         margin: 0 24px auto;
     }
-  max-width: 1200px; //750px
+  max-width: 750px; //1200px
   &-sub {
     margin-bottom: 20px;
     padding-bottom: 40px;
@@ -21,7 +21,7 @@ main,
 footer>.footer_wrap,
 .nav-container {
   margin: 0 auto;
-  max-width: 1200px; //750px
+  max-width: 750px; //1200px
   width: 80%;
     @media (max-width: $break-small) {
         width: 88%;
