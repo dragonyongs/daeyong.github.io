@@ -48,15 +48,16 @@
     {% if page.project-header == true %}
         {% include project-header.html %}
     {% endif %}
-    <main>
-      {{ content }}
-        <!--
-        {% if page.text == true %}
-            {% include share.html %}
-        {% endif %}
-        -->
-    </main>
-
+    <div class="extend">
+      <main>
+        {{ content }}
+          <!--
+          {% if page.text == true %}
+              {% include share.html %}
+          {% endif %}
+          -->
+      </main>
+    </div>
       {% include footer.html %}
 
   </body>

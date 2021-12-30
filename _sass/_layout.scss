@@ -17,11 +17,15 @@ header, .grey-3{
   background-color: $grey-3;
 } //gary 정리 필요
 
+.extend{
+    max-width: 1200px;
+}
+
 main,
 footer>.footer_wrap,
 .nav-container {
   margin: 0 auto;
-  max-width: 750px; //1200px
+  max-width: 100%; //1200px
   width: 80%;
     @media (max-width: $break-small) {
         width: 88%;
