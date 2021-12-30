@@ -39,24 +39,24 @@
           </div>
         </nav>
       </header>
-    {% if page.home == true %}
-        {% include resume-header.html %}
-    {% endif %}
-    {% if page.post-header == true %}
-        {% include post-header.html %}
-    {% endif %}
-    {% if page.project-header == true %}
-        {% include project-header.html %}
-    {% endif %}
-    <div class="extend">
-      <main>
-        {{ content }}
-          <!--
-          {% if page.text == true %}
-              {% include share.html %}
-          {% endif %}
-          -->
-      </main>
+      <div class="extend"></div>
+        {% if page.home == true %}
+            {% include resume-header.html %}
+        {% endif %}
+        {% if page.post-header == true %}
+            {% include post-header.html %}
+        {% endif %}
+        {% if page.project-header == true %}
+            {% include project-header.html %}
+        {% endif %}
+        <main>
+          {{ content }}
+            <!--
+            {% if page.text == true %}
+                {% include share.html %}
+            {% endif %}
+            -->
+        </main>
     </div>
       {% include footer.html %}
 
