@@ -127,7 +127,10 @@ footer {
     .footer_wrap {
         font-style: normal;
         position: relative;
-
+        width: 1200px;
+        @media (max-width: $break-small) {
+            width: 100%;
+        }
         .information {
             display: inline-block;
 
