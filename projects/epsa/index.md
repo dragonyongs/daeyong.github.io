@@ -98,13 +98,13 @@ order: 2
 
 <figcaption>협회 멤버십 골프행사 상세</figcaption>
 
-![기업가정신 도서 상세](img/page19-20191231-epsa.png)
+![교육/세미나](img/page19-20191231-epsa.png)
 
-<figcaption>기업가정신 도서 상세</figcaption>
+<figcaption>교육/세미나</figcaption>
 
-![교육 세미나 상세](img/page20-20191231-epsa.png)
+![교육/세미나 상세](img/page20-20191231-epsa.png)
 
-<figcaption>교육 세미나 상세</figcaption>
+<figcaption>교육/세미나 상세</figcaption>
 
 ![기술경영연구소](img/page21-20191231-epsa.png)
 

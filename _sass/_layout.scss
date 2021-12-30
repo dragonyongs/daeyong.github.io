@@ -1,14 +1,16 @@
 .container {
-  margin-bottom: 20px;
   margin: 0 auto;
-  padding-bottom: 40px;
   width: 80%;
     @media (max-width: $break-small) {
         width: 88%;
         margin: 0 24px auto;
     }
   max-width: 1200px; //750px
-  border-bottom: 1px #ddd solid;
+  &-sub {
+    margin-bottom: 20px;
+    padding-bottom: 40px;
+    border-bottom: 1px #ddd solid;
+  }
 }
 
 header, .grey-3{
