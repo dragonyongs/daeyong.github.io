@@ -159,8 +159,28 @@ order: 2
 <figcaption>이용약관</figcaption>
 
 
-## 모바일 페이지
+## 기타 추가 페이지
 
-![메인 기본 디자인](img/page25-20191231-epsa.png)
+![텍스트](img/page34-20191231-epsa.png)
 
-<figcaption>메인 페이지 디자인</figcaption>
+<figcaption>텍스트</figcaption>
+
+![텍스트](img/page35-20191231-epsa.png)
+
+<figcaption>텍스트</figcaption>
+
+![텍스트](img/page36-20191231-epsa.png)
+
+<figcaption>텍스트</figcaption>
+
+![텍스트](img/page37-20191231-epsa.png)
+
+<figcaption>텍스트</figcaption>
+
+![텍스트](img/page38-20191231-epsa.png)
+
+<figcaption>텍스트</figcaption>
+
+![텍스트](img/page39-20191231-epsa.png)
+
+<figcaption>텍스트</figcaption>
