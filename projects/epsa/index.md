@@ -161,26 +161,26 @@ order: 2
 
 ## 기타 추가 페이지
 
-![텍스트](img/page34-20191231-epsa.png)
+![기업가정신콘서트 신청페이지](img/page34-20191231-epsa.png)
 
-<figcaption>텍스트</figcaption>
+<figcaption>기업가정신콘서트 신청페이지</figcaption>
 
-![텍스트](img/page35-20191231-epsa.png)
+![교육&세미나 마이페이지](img/page35-20191231-epsa.png)
 
-<figcaption>텍스트</figcaption>
+<figcaption>교육&세미나 마이페이지</figcaption>
 
-![텍스트](img/page36-20191231-epsa.png)
+![세계 기업가 기념일 리스트 페이지](img/page36-20191231-epsa.png)
 
-<figcaption>텍스트</figcaption>
+<figcaption>세계 기업가 기념일 리스트 페이지</figcaption>
 
-![텍스트](img/page37-20191231-epsa.png)
+![세계 기업가 기념일 상세 페이지](img/page37-20191231-epsa.png)
 
-<figcaption>텍스트</figcaption>
+<figcaption>세계 기업가 기념일 상세 페이지</figcaption>
 
-![텍스트](img/page38-20191231-epsa.png)
+![리더십 교육관련 상세 페이지 : 결제 옵션](img/page38-20191231-epsa.png)
 
-<figcaption>텍스트</figcaption>
+<figcaption>리더십 교육관련 상세 페이지 : 결제 옵션</figcaption>
 
-![텍스트](img/page39-20191231-epsa.png)
+![도서 미리보기 팝업]](img/page39-20191231-epsa.png)
 
-<figcaption>텍스트</figcaption>
+<figcaption>도서 미리보기 팝업</figcaption>
