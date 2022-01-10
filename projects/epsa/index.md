@@ -181,6 +181,6 @@ order: 2
 
 <figcaption>리더십 교육관련 상세 페이지 : 결제 옵션</figcaption>
 
-![도서 미리보기 팝업]](img/page39-20191231-epsa.png)
+![도서 미리보기 팝업](img/page39-20191231-epsa.png)
 
 <figcaption>도서 미리보기 팝업</figcaption>
