@@ -26,6 +26,22 @@ order: 2
 
 ![프로젝트 커버](img/cover1-20211130-dts.png)
 
+<div class="wrap">
+    <section class="project-cover">
+        <article class="theme-blue"></article>
+            <header>
+                <h1>DTS</h1>
+            </header>
+            <aside>
+                <h2>디티에스 사이트 구축</h2>
+                <p>2021. 09. 13 ~ 2021. 10. 22</p>
+                <p>Design 100%</p>
+                <p>Adobe Photoshop, Adobe Illustrator, Adobe XD</p>
+                <p>Web, Mobile</p>
+            </aside>
+        </article>
+    </section>
+</div>
 <figcaption>DTS 프로젝트 커버</figcaption>
 
 ## 데스크탑 페이지
