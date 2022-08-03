@@ -32,3 +32,50 @@
  /* Chrome10-25,Safari5.1-6 */
  /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
  /* IE6-9 */
+
+
+ /* 
+ //New Post 영역
+.wrap{
+    margin: 0 auto;width: 960px;
+}
+
+.project-cover, .project-contents{
+    position: relative;width: 100%;
+}
+
+.project-cover{
+    position: relative;
+    width: 100%;
+    .theme-blue{
+        background: rgb(0,78,255);
+        background: linear-gradient(120deg, rgba(0,78,255,1) 0%, rgba(0,37,180,1) 60%, rgba(57,0,180,1) 100%);
+    }
+    .article{
+        width: 100%;
+        height: 678px;
+        color: #fff;
+        header{
+            position: absolute;
+            top:32%;
+            width: 100%;
+            text-align: center;
+            h1{
+                font-size: 3.6rem;
+            }
+        }
+    }
+    .article aside{
+        position: absolute;
+        bottom: 6%;left: 6%;
+        h2{
+            margin-bottom: 1rem;
+            font-size: 1.2rem;
+        }
+        p{
+            margin: 0.2rem 0 0;
+            font-size: 0.8rem;
+        }
+    }
+}
+ */
